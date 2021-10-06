@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Harold Berjamin"
 title_separator          : "-"
 name                     : &name "Harold Berjamin"
-description              : &description "personal website"
+description              : &description "personal academic website"
 url                      : https://harold-berjamin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harold-berjamin/harold-berjamin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Harold Berjamin"
   avatar           : "profile.png"
-  bio              : "Research Fellow in Applied Mathematics"
+  bio              : "Postdoctoral Research Fellow in Applied Mathematics"
   location         : 
   employer         : "NUI Galway, Ireland"
   pubmed           : 
