@@ -20,6 +20,7 @@ Work experience
 * 2019-2023: Postdoctoral fellow, NUI Galway, Ireland
   * 2021-2023: Marie Sklodovska Curie Individual Fellowship, European Commission
   * 2019-2021: Government of Ireland Postdoctoral Fellowship, Irish Research Council
+* 2018-2019: Teaching and Research Assistant, Ecole Centrale de Marseille, France
 * 2015-2018: PhD fellow, Aix-Marseille University, France
   * Doctoral fellowship, French Ministry of Higher Education and Research
 
@@ -31,7 +32,7 @@ Teaching
 
 Service
 ======
-* Referee for [various journals](https://publons.com/researcher/2163976/harold-berjamin/)
+* Peer-review for [various journals](https://publons.com/researcher/2163976/harold-berjamin/)
 
 Publications
 ======
