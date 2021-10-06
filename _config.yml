@@ -83,9 +83,9 @@ author:
   name             : "Harold Berjamin"
   avatar           : "profile.png"
   bio              : "Research Fellow in Applied Mathematics"
-  location         : "Galway, Ireland"
-  employer         : "NUI Galway"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=harold+berjamin"
+  location         : 
+  employer         : "NUI Galway, Ireland"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rbAjLQYAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Harold-Berjamin"
