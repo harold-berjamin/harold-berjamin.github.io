@@ -9,7 +9,7 @@ $$
 \begin{cases}
 \partial_t \varepsilon = \partial_x v\\
 \rho_0 \partial_t v = \partial_x \sigma(\varepsilon)
-\end{cases} \qquad \qquad
+\end{cases} \qquad\text{with}\qquad
 (\varepsilon, v)^\top|_{t=0} = \begin{cases}
 (\varepsilon_L, v_L)^\top, & x<0\\
 (\varepsilon_R, v_R)^\top, & x>0
