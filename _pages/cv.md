@@ -38,5 +38,7 @@ Selected publications
 ======
 Go to [full list](https://harold-berjamin.github.io/publications/)
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.cv %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
