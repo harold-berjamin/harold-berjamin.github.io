@@ -1,6 +1,6 @@
 ---
 title: "Modelling the softening of vibrating geomaterials"
-excerpt: "<img src='/images/Slow.png'>"
+excerpt: "Modified soft-ratchet model"
 collection: portfolio
 ---
 
