@@ -25,4 +25,4 @@ for various constitutive laws. The solution includes shock waves, rarefaction wa
 
 During my first post-doctoral fellowship, I had the opportunity to investigate the diffraction of an acoustic beam propagating in a soft elastic solid along a given direction. This phenomenon is described by a system of coupled KZK-type equations, for which I developed a Finite Volume code from scratch. We published the results in <i>Communications in Nonlinear Science and Numerical Simulation</i> (2021) [link](https://harold-berjamin.github.io/publication/2021-09-08-cnsns).
 
-<img src='/images/Elast.png' alt="centered image">
+<figure src='/images/Elast.png'>
