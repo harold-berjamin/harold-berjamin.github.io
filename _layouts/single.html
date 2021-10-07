@@ -39,9 +39,9 @@ layout: default
         {% endif %}
              
         {% if page.citation and page.paperurl %}
-          <p>{{ page.citation }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
+          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
         {% elsif page.citation %}
-          <p>{{ page.citation }} </p>
+          <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
     
         </header>
@@ -51,6 +51,10 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+
+      {% if page.excerpt %}
+          <p>{{ page.excerpt }}</p>
+      {% endif %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
