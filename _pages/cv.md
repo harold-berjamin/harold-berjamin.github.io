@@ -34,8 +34,9 @@ Service
 ======
 * Peer-review for [various journals](https://publons.com/researcher/2163976/harold-berjamin/)
 
-Publications
+Selected publications
 ======
+Go to [full list](https://harold-berjamin.github.io/publications/)
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv-select.html %}
   {% endfor %}</ul>
