@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Brass"
-excerpt: "Modelling and simulation of brass musical instruments<br/><img src='/images/500x300.png'>"
+excerpt: "Modelling and simulation of brass musical instruments<br/><img src='/images/Pavillon.png'>"
 collection: portfolio
 ---
 
