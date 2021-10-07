@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * 2019-2023: Postdoctoral fellow, NUI Galway, Ireland
-  * 2021-2023: Marie Sklodovska Curie Individual Fellowship ([project](https://cordis.europa.eu/project/id/101023950)), European Commission
-  * 2019-2021: Government of Ireland Postdoctoral Fellowship, Irish Research Council
+  * 2021: Marie Sklodovska Curie Individual Fellowship ([project](https://cordis.europa.eu/project/id/101023950)), European Commission
+  * 2019: Government of Ireland Postdoctoral Fellowship, Irish Research Council
 * 2018-2019: Teaching and Research Assistant, Ecole Centrale de Marseille, France
 * 2015-2018: Doctoral fellow ([thesis](https://tel.archives-ouvertes.fr/tel-01977206)), Aix-Marseille University, France
   * Doctoral fellowship, French Ministry of Higher Education and Research
