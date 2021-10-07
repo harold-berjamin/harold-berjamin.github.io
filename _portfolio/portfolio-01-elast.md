@@ -1,6 +1,6 @@
 ---
 title: "Theoretical and computational results in nonlinear elastodynamics"
-excerpt: "Riemann problem, sound beams"
+excerpt: "Mathematical physics, Riemann problem, Sound beams"
 collection: portfolio
 ---
 
