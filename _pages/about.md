@@ -12,9 +12,11 @@ I have joined [NUI Galway](http://www.nuigalway.ie/our-research/people/mathemati
 
 My current [research project](https://cordis.europa.eu/project/id/101023950) concerns the subject of traumatic brain injury. You can contact me by email for opportunities, scientific discussions or communication requests.
 
+<address>
 School of Mathematical and Statistical Sciences<br>
 NUI Galway<br>
 University Road<br>
 Galway<br>
 H91 TK33<br>
 Ireland
+</address>
