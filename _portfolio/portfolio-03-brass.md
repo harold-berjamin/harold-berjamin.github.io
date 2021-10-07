@@ -1,6 +1,6 @@
 ---
 title: "Modelling and simulation of brass musical instruments"
-excerpt: "Physics-based sound synthesis"
+excerpt: "Musical acoustics, Physics-based sound synthesis"
 collection: portfolio
 ---
 
