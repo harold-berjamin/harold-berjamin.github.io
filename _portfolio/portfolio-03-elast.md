@@ -14,7 +14,7 @@ $$
 \end{aligned}
 \right.
 \qquad\text{with}\qquad
-(\varepsilon, v)^\top|_{t=0} = \begin{cases}
+(\varepsilon, v)|_{t=0}^\top = \begin{cases}
 (\varepsilon_L, v_L)^\top, & x<0\\
 (\varepsilon_R, v_R)^\top, & x>0
 \end{cases}
