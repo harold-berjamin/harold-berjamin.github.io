@@ -42,8 +42,8 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% endif %}
 
-    {% if page.collection == 'portfolio' and page.excerpt %}
-      <p>{{ page.excerpt }}</p>
+    {% if post.collection == 'portfolio' and post.excerpt %}
+      <p>{{ post.excerpt }}</p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
