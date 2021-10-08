@@ -1,6 +1,6 @@
 ---
 title: "Soft porous solids"
-excerpt: 
+excerpt: ""
 collection: portfolio
 ---
 
