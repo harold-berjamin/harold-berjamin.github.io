@@ -1,6 +1,6 @@
 ---
-title: "Modelling the motion of nonlinear porous solids"
-excerpt: "Soft solids, poroelasticity, waves"
+title: "Soft porous solids"
+excerpt: 
 collection: portfolio
 ---
 
