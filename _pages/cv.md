@@ -29,7 +29,7 @@ Teaching
 
 Service
 ======
-* Peer-review for [various journals](https://publons.com/researcher/2163976/harold-berjamin/)
+* Peer-review for [various journals](https://publons.com/researcher/2163976/harold-berjamin/peer-review/)
 * 2020-*: Member of the Research and Graduate Studies committee, NUI Galway
 * 2020-2021: Participation in a successful Athena SWAN bronze award application, which aim is to promote good practice in terms of gender equality in higher-education and research institutions, NUI Galway
 * 2016-2017: PhD student representative, Institute of Mechanics and Acoustics, Marseille
