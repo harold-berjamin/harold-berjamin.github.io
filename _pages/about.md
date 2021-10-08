@@ -13,7 +13,7 @@ I joined [NUI Galway](http://www.nuigalway.ie/our-research/people/mathematics-st
 My current [research project](https://cordis.europa.eu/project/id/101023950) concerns the subject of traumatic brain injury. It has received funding from the European Union’s Horizon 2020 research and innovation programme. You can contact me by email for opportunities, scientific discussions or communication requests.
 
 <figure>
-  <img src='/images/Logo_EU_V.png' alt="EU emblem" width="234" height="234">
+  <img src='/images/Logo_EU_V.png' alt="EU emblem" width="143" height="143">
   <img src='/images/Logo_MC.png' alt="MSCA logo" width="237" height="144">
 </figure>
 
