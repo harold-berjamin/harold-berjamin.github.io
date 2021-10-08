@@ -1,6 +1,6 @@
 ---
-title: "Modelling the motion of nonlinear viscoelastic solids"
-excerpt: "Soft solids, viscoelasticity, waves"
+title: "Soft viscoelastic solids"
+excerpt: 
 collection: portfolio
 ---
 
