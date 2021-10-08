@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020s-fluid
 venue: "NUI Galway"
-date: "Spring 2020"
+date: 2020-01-01
 location: "Galway, Ireland"
 excerpt: "Incompressible flows, Irrotational flows, Stream functions, Complex potentials"
 ---
