@@ -1,6 +1,6 @@
 ---
 title: "Soft viscoelastic solids"
-excerpt: 
+excerpt: ""
 collection: portfolio
 ---
 
