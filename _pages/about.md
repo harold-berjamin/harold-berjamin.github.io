@@ -14,7 +14,7 @@ My current [research project](https://cordis.europa.eu/project/id/101023950) con
 
 <figure>
   <img src='/images/Logo_EU_V.png' alt="EU emblem" width="143" height="143">
-  <img src='/images/Logo_MC.png' alt="MSCA logo" width="237" height="144">
+  <img src='/images/Logo_MC.png' alt="MSCA logo" width="143" height="143">
 </figure>
 
 <address>
