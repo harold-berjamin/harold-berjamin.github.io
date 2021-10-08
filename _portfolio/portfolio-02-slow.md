@@ -1,6 +1,6 @@
 ---
 title: "Softening of vibrating geomaterials"
-excerpt: 
+excerpt: ""
 collection: portfolio
 ---
 
