@@ -1,6 +1,6 @@
 ---
 title: "Brass musical instruments"
-excerpt: 
+excerpt: ""
 collection: portfolio
 ---
 
