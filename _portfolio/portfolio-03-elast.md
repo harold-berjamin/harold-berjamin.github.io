@@ -23,7 +23,7 @@ $$
 
 for various constitutive laws. The solution includes shock waves, rarefaction waves and compound waves, leading to an [algorithm](http://gchiavassa.perso.centrale-marseille.fr/RiemannElasto/) to solve the problem (development of a [Matlab toolbox](https://www.mathworks.com/matlabcentral/fileexchange/63424-riemannelasto1d)). The mathematical theory behind this kind of system of partial differential equations goes back to the 1970s.
 
-During my first post-doctoral fellowship, I had the opportunity to investigate the diffraction of an acoustic beam propagating in a soft elastic solid along a given direction. This phenomenon is described by a system of coupled KZK-type equations, for which I developed a Finite Volume code from scratch. We published the results in <i>Communications in Nonlinear Science and Numerical Simulation</i> (2021) [link](/publication/2021-09-08-cnsns).
+During my first post-doctoral fellowship, I had the opportunity to investigate the diffraction of an acoustic beam propagating in a soft elastic solid along a given direction (Figure). This phenomenon is described by a system of coupled KZK-type equations, for which I developed a Finite Volume code from scratch. We published the results in <i>Communications in Nonlinear Science and Numerical Simulation</i> (2021) [link](/publication/2021-09-08-cnsns).
 
 <figure>
     <img src='/images/Elast.png' width="433" height="296">
