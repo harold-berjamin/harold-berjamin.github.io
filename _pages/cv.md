@@ -17,9 +17,9 @@ Employment
 
 Education
 ======
-* PhD in Acoustics, Aix-Marseille University, 2018
-* MSc in Acoustics, Ecole Centrale de Marseille, 2015
-* MSc in Engineering, Ecole Centrale de Marseille, 2015
+* PhD in Acoustics, Aix-Marseille University, France, 2018
+* MSc in Acoustics, Ecole Centrale de Marseille, France, 2015
+* MSc in Engineering, Ecole Centrale de Marseille, France, 2015
 
 Teaching
 ======
@@ -30,9 +30,9 @@ Teaching
 Service
 ======
 * Peer-review for [various journals](https://publons.com/researcher/2163976/harold-berjamin/)
-* 2020-*: Participation in a successful Athena SWAN bronze award application, which aim is to promote good practice in terms of gender equality in higher-education and research institutions
 * 2020-*: Member of the Research and Graduate Studies committee, NUI Galway
-* 2016-2017: PhD student representative, Institute of Mechanics and Acoustics, Marseille (France)
+* 2020-2021: Participation in a successful Athena SWAN bronze award application, which aim is to promote good practice in terms of gender equality in higher-education and research institutions, NUI Galway
+* 2016-2017: PhD student representative, Institute of Mechanics and Acoustics, Marseille
 
 Awards
 ======
@@ -47,7 +47,6 @@ Funding
 * 2019: Government of Ireland Postdoctoral Fellowship, Irish Research Council - Principal Investigator
 * 2016: SLOWDYN, Défi Inphyniti, French centre for scientific research (CNRS) - Participant
 * 2015: Doctoral Fellowship, French ministry of higher education and research - Principal Investigator
-* 2015: DCND, “Nuclear for tomorrow” programme, French nuclear waste management agency (Andra) - Participant
 
 Selected publications
 ======
