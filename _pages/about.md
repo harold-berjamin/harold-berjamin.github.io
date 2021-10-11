@@ -23,7 +23,18 @@ My current [research project](https://cordis.europa.eu/project/id/101023950) con
 <address>
 School of Mathematical and Statistical Sciences, NUI Galway<br>
 University Road, Galway, H91 TK33, Republic of Ireland<br>
-</address>
+</address><br>
 
 News
 ======
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
