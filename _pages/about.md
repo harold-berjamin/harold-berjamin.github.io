@@ -23,7 +23,7 @@ My current [research project](https://cordis.europa.eu/project/id/101023950) con
 <address>
 School of Mathematical and Statistical Sciences, NUI Galway<br>
 University Road, Galway, H91 TK33, Republic of Ireland
-</address><br>
+</address>
 
 News
 ======
