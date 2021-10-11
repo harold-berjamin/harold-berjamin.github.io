@@ -28,8 +28,6 @@ University Road, Galway, H91 TK33, Republic of Ireland
 News
 ======
 
-{% capture written_year %}'None'{% endcapture %}
-
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
