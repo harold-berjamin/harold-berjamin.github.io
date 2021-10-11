@@ -9,8 +9,8 @@ Click on the items below to learn more. You can also find my articles on <a href
 
 {% include base_path %}
 
-<li>
+<ol reversed>
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-</li>
+</ol>
