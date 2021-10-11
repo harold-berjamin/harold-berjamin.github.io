@@ -26,9 +26,12 @@ NUI Galway,
 University Road,
 Galway,
 H91 TK33,
-Ireland
+Ireland<br>
 </address>
 
 News
 ======
 
+<div id="body">
+<div id="feedControl">Loading...</div>
+</div>
