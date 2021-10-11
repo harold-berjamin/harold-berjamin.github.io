@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,3 +25,7 @@ Galway<br>
 H91 TK33<br>
 Ireland
 </address>
+
+News
+======
+
