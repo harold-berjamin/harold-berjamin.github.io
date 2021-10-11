@@ -9,6 +9,8 @@ Click on the items below to learn more. You can also find my articles on [my Goo
 
 {% include base_path %}
 
+<ol>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+</ol>
