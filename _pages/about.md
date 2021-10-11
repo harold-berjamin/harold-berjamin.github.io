@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -31,7 +31,3 @@ Ireland<br>
 
 News
 ======
-
-<div id="body">
-<div id="feedControl">Loading...</div>
-</div>
