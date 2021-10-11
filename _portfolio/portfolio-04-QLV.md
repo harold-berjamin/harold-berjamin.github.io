@@ -1,6 +1,6 @@
 ---
 title: "Soft viscoelastic solids"
-excerpt: "Constitutive modelling, phononic crystals"
+excerpt: "Constitutive modelling, Phononic crystals"
 collection: portfolio
 ---
 
