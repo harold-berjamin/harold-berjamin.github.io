@@ -35,7 +35,7 @@
     </h2>
 
     {% if post.collection == 'news' %}
-      <p> {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>p>
+      <p> {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% endif %}
 
     {% if post.collection == 'teaching' %}
