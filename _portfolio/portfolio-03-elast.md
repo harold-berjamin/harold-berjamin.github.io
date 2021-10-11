@@ -7,16 +7,14 @@ collection: portfolio
 During my PhD studies, I also worked on the equations governing the motion of nonlinear elastic solids in one space dimension. The results are presented in a <i>Wave Motion</i> article (2017) [link](/publication/2017-06-27-wamot), where I fully detailed the derivation of the analytical solution to the Riemann problem
 
 $$
-\left\lbrace
 \begin{aligned}
 \partial_t \varepsilon &= \partial_x v\\
 \rho_0 \partial_t v &= \partial_x \sigma(\varepsilon)
 \end{aligned}
-\right.
 \qquad\text{with}\qquad
-(\varepsilon, v)|_{t=0}^\top = \begin{cases}
-(\varepsilon_L, v_L)^\top, & x<0\\
-(\varepsilon_R, v_R)^\top, & x>0
+(\varepsilon, v)|_{t=0} = \begin{cases}
+(\varepsilon_L, v_L), & x<0\\
+(\varepsilon_R, v_R), & x>0
 \end{cases}
 \notag
 $$
