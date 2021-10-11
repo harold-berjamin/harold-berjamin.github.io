@@ -50,7 +50,7 @@ Funding
 
 Selected publications
 ======
-Go to [full list](https://harold-berjamin.github.io/publications/) or to [my Google Scholar profile](https://scholar.google.com/citations?user=rbAjLQYAAAAJ).
+Go to [full list](https://harold-berjamin.github.io/publications/).
 <ul>
   {% for post in site.publications reversed %}
     {% if post.cv %}
