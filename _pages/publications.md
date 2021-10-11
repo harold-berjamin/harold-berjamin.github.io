@@ -11,6 +11,8 @@ Click on the items below to learn more. You can also find my articles on [my Goo
 
 <ol reversed>
 {% for post in site.publications reversed %}
+  <li>
   {% include archive-single.html %}
+  </li>
 {% endfor %}
 </ol>
