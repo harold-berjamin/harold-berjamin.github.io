@@ -37,6 +37,10 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
+
+        <!-- {% if page.collection == 'news' %} -->
+          <p>{{ page.date }}{{ page.collection }}</p>
+        <!-- {% endif %} -->
              
         {% if page.citation and page.paperurl %}
           <p>{{ page.citation }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
@@ -59,8 +63,6 @@ layout: default
       {% if page.collection == 'teaching' and page.excerpt %}
         <p>{{ page.excerpt }}</p>
       {% endif %}
-
-      <p> page.collection </p>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
