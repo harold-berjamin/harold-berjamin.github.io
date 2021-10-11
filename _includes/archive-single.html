@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
       {% if post.collection == 'posts' %}
-        ({{ post.date | default: "1900-01-01" | date: "%D" }})
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">({{ post.date | default: "1900-01-01" | date: "%D" }})</a>
       {% endif %}
     </h2>
 
