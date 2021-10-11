@@ -50,9 +50,11 @@ Funding
 
 Selected publications
 ======
-Go to [full list](https://harold-berjamin.github.io/publications/)
-  <ul>{% for post in site.publications reversed %}
+Go to [full list](https://harold-berjamin.github.io/publications/).
+<ul>
+  {% for post in site.publications reversed %}
     {% if post.cv %}
       {% include archive-single-cv.html %}
     {% endif %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
