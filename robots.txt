@@ -1,6 +1,8 @@
 User-agent: *
 
-Disallow: /archive-layout-with-content/
+Disallow: /publication/
+Disallow: /posts/
+
 Disallow: /categories/
 Disallow: /collection-archive/
 Disallow: /page-archive/
@@ -9,6 +11,5 @@ Disallow: /terms/
 Disallow: /year-archive/
 Disallow: /markdown_generator/
 Disallow: /markdown
-Disallow: /publication/
 
 Sitemap: https://harold-berjamin.github.io/sitemap.xml
