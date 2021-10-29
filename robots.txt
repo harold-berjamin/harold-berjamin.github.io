@@ -9,5 +9,6 @@ Disallow: /terms/
 Disallow: /year-archive/
 Disallow: /markdown_generator/
 Disallow: /markdown
+Disallow: /publication/
 
 Sitemap: https://harold-berjamin.github.io/sitemap.xml
