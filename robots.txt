@@ -1,4 +1,5 @@
 User-agent: *
+
 Disallow: /archive-layout-with-content/
 Disallow: /categories/
 Disallow: /collection-archive/
