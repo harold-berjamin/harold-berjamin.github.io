@@ -11,15 +11,15 @@ redirect_from:
 
 Employment
 ======
-* 2019-2023: Postdoctoral fellow, University of Galway, Ireland
-* 2018-2019: Teaching and Research Assistant, Ecole Centrale de Marseille, France
-* 2015-2018: Doctoral fellow ([thesis](https://tel.archives-ouvertes.fr/tel-01977206)), Aix-Marseille University, France
+* 2019-2024: Postdoctoral researcher, University of Galway, Ireland
+* 2018-2019: Teaching and Research Assistant, Centrale Méditerranée, France
+* 2015-2018: Doctoral fellow ([thesis](https://theses.hal.science/tel-01977206)), Aix-Marseille University, France
 
 Education
 ======
 * PhD in Acoustics, Aix-Marseille University, France, 2018
-* MSc in Acoustics, Ecole Centrale de Marseille, France, 2015
-* MSc in Engineering, Ecole Centrale de Marseille, France, 2015
+* MSc in Acoustics, Centrale Méditerranée, France, 2015
+* MSc in Engineering, Centrale Méditerranée, France, 2015
 
 Teaching
 ======
@@ -32,6 +32,7 @@ Teaching
 Service
 ======
 * Peer-review for [various journals](https://www.webofscience.com/wos/author/rid/B-1073-2017)
+* 2022: Contribution to outreach during Maths Week Ireland (I'm a Mathematician, [Bright Club](https://youtu.be/UdR5hvhJIRo))
 * 2020-*: Member of the Research and Graduate Studies committee, University of Galway
 * 2020-2021: Participation in a successful [Athena SWAN](https://www.advance-he.ac.uk/equality-charters/international-charters/athena-swan-ireland) bronze award application, University of Galway
 * 2016-2017: PhD student representative, Institute of Mechanics and Acoustics, Marseille
