@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 
-During my PhD studies, I also worked on the equations governing the motion of nonlinear elastic solids in one space dimension. The results are presented in a <i>Wave Motion</i> [article](/_publications/2017-06-27-wamot), where I fully detailed the derivation of the analytical solution to the Riemann problem
+During my PhD studies, I also worked on the equations governing the motion of nonlinear elastic solids in one space dimension. The results are presented in a <i>Wave Motion</i> [article](/publication/2017-06-27-wamot), where I fully detailed the derivation of the analytical solution to the Riemann problem
 
 $$
 \begin{aligned}
