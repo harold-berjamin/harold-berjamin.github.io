@@ -1,6 +1,6 @@
 ---
 title: "Transversal topics"
-excerpt: "Nonlinear elastodynamics, Soft solids"
+excerpt: "Nonlinear elastodynamics, Soft solids, Finite volume method"
 collection: portfolio
 ---
 
@@ -36,3 +36,7 @@ In relation with my research works on traumatic brain injury, I investigated sev
 <figure>
     <img src="/images/Porous.png" width="400" height="230" alt="Soft porous cylinder">
 </figure>
+
+### Finite volume method
+
+(In construction)
