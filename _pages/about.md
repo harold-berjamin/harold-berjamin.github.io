@@ -17,7 +17,7 @@ Currently I am a postdoctoral researcher working with [Stephan Rudykh](https://s
 
 I joined the University of Galway in 2019 to work as a postdoctoral fellow in Applied Mathematics with [Michel Destrade](https://www.universityofgalway.ie/science-engineering/school-of-maths/staff-profiles/academic/micheldestrade/). This [research project](https://cordis.europa.eu/project/id/101023950) concerned the subject of traumatic brain injury. It has received funding from the European Union's Horizon 2020 research and innovation programme.
 
-You can contact me by email for opportunities, scientific discussions or communication requests. <em> Looking for job opportunities (Assistant Professor, Lecturer, Researcher, Scientist). </em>
+You can contact me by email for opportunities, scientific discussions or communication requests. <em> Looking for job opportunities (Assistant Professor, Lecturer, Researcher, Scientist, R&D Engineer, Simulation Engineer). </em>
 
 <figure>
   <img src='/images/Logo_EU_V.png' width="143" height="143" alt="EU emblem">
