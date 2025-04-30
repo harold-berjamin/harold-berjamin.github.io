@@ -32,7 +32,7 @@ Teaching
 Service
 ======
 * Peer-review for [various journals](https://www.webofscience.com/wos/author/rid/B-1073-2017)
-* 2022: Contribution to outreach during Maths Week Ireland ([I'm a Mathematician](https://circle.imamathematician.ie/profile/haroldberjamin/), [Bright Club Ireland](https://youtu.be/UdR5hvhJIRo))
+* 2022: Contribution to outreach during Maths Week Ireland ([I'm a Mathematician](https://imamathematician.ie/), [Bright Club Ireland](https://youtu.be/UdR5hvhJIRo))
 * 2020-*: Member of the Research and Graduate Studies committee, University of Galway
 * 2020-2021: Participation in a successful [Athena SWAN](https://www.advance-he.ac.uk/equality-charters/international-charters/athena-swan-ireland) bronze award application, University of Galway
 * 2016-2017: PhD student representative, Institute of Mechanics and Acoustics, Marseille
