@@ -19,10 +19,6 @@ I joined the University of Galway (Ireland) in 2019 to work as a postdoctoral fe
 
 You can contact me by email for opportunities, scientific discussions or communication requests. <em> Looking for job opportunities (Assistant Professor, Lecturer, Researcher, Scientist, R&D Engineer, Simulation Engineer). </em>
 
-<figure>
-  <img src='/images/Logo_EU_V.png' width="143" height="143" alt="EU emblem">
-</figure>
-
 <address>
 Department of Mathematics and Statistics, University of Limerick<br>
 Limerick, V94 T9PX, Ireland​
