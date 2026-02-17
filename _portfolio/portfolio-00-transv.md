@@ -1,6 +1,6 @@
 ---
 title: "Transversal topics"
-excerpt: "Nonlinear elastodynamics, Soft solids, Finite volume method"
+excerpt: "Nonlinear elastodynamics, Dispersive waves, Finite volume method"
 collection: portfolio
 ---
 
@@ -29,13 +29,9 @@ During my first post-doctoral fellowship, I had the opportunity to investigate t
     <img src="/images/Elast.png" width="400" height="230" alt="Shear wave beam">
 </figure>
 
-### Soft solids
+### Dispersive waves
 
-In relation with my research works on traumatic brain injury, I investigated several aspects of the modelling and characterisation of soft biological tissues. More specifically, I studied the propagation of shear waves in pre-stressed viscoelastic media, see the 2022 <i>Int. J. Solids Struct.</i> publication. Using these results, I adapted an experimental technique to measure the amount of mechanical stress in a material based on the propagation of two shear waves, see <i>Extreme Mech. Lett.</i> [paper](/publication/2024-02-23-eml). Experimental measurements are currently being performed on various samples using the theory presented in a recent <i>Math. Mech. Solids</i> [publication](/publication/2024-03-13-mms). Finally, I also became interested in the modelling of static torsional motions in soft porous solids (see study published in <i>Int. J. Non-Linear Mech.</i> [publication](/publication/2023-12-06-nlm)).
-
-<figure>
-    <img src="/images/Porous.png" width="400" height="230" alt="Soft porous cylinder">
-</figure>
+(In construction)
 
 ### Finite volume method
 
