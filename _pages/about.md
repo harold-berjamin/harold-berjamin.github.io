@@ -17,7 +17,9 @@ Currently I am a postdoctoral researcher working with [Doireann O'Kiely](https:/
 
 I joined the University of Galway (Ireland) in 2019 to work as a postdoctoral fellow in Applied Mathematics with [Michel Destrade](https://www.universityofgalway.ie/science-engineering/school-of-maths/staff-profiles/academic/micheldestrade/). This [research project](https://cordis.europa.eu/project/id/101023950) concerned the subject of traumatic brain injury. It has received funding from the European Union's Horizon 2020 research and innovation programme. Then, I was working with [Stephan Rudykh](https://scholar.google.com/citations?user=gGiZAKUAAAAJ) in Galway as part of the [ERC project MAGIC](https://cordis.europa.eu/project/id/852281). This research addresses the modelling of soft magnetoactive materials.
 
-You can contact me by email for opportunities, scientific discussions or communication requests. <em> Looking for job opportunities (Assistant Professor, Lecturer, Researcher, Scientist, R&D Engineer, Simulation Engineer). </em>
+You can contact me by email for opportunities, scientific discussions or communication requests.
+
+<em> Looking for job opportunities (Assistant Professor, Lecturer, Researcher, Scientist, R&D Engineer, Simulation Engineer). </em>
 
 <address>
 Department of Mathematics and Statistics, University of Limerick<br>
