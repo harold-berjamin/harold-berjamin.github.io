@@ -1,5 +1,5 @@
 ---
-title: "Modelling and characterisation of soft biological tissues"
+title: "Soft biological tissues"
 excerpt: ""
 collection: portfolio
 ---
