@@ -11,7 +11,7 @@ redirect_from:
 About
 ======
 
-My research concerns the mathematics and mechanics of complex materials. My works are dedicated to the modelling of geomaterials, soft biological tissues, composite materials, active metamaterials, and thin structures. Focus is on the modelling of wave propagation, the study of bifurcations, as well as the development of related computational methods. My research works have various applications in engineering, e.g. in geophysics, biomechanics, nondestructive testing and materials science.
+My research concerns the mathematics and mechanics of complex materials. My works are dedicated to the modelling of geomaterials, soft biological tissues, composite materials, active metamaterials, and thin structures. Focus is on the modelling of wave propagation, the study of bifurcations, as well as the development of related computational methods. The results have various applications in engineering, e.g. in geophysics, biomechanics, nondestructive testing and materials science.
 
 Currently I am a postdoctoral researcher working with [Doireann O'Kiely](https://www.doireannokiely.com/) at the University of Limerick (Ireland). The project is about wrinkle formation in metals.
 
