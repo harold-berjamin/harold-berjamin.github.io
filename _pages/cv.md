@@ -11,7 +11,8 @@ redirect_from:
 
 Employment
 ======
-* 2025-*: Postdoctoral researcher, University of Limerick, Ireland
+* 2026-*: Lecturer in Biomedical Engineering, University of Galway, Ireland
+* 2025-2026: Postdoctoral researcher, University of Limerick, Ireland
 * 2019-2025: Postdoctoral researcher, University of Galway, Ireland
 * 2018-2019: Teaching and Research Assistant, Centrale Méditerranée, France
 * 2015-2018: Doctoral fellow ([thesis](https://theses.hal.science/tel-01977206)), Aix-Marseille University, France
