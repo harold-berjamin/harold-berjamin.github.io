@@ -40,13 +40,11 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
         
-        <!--
         {% if page.citation and page.paperurl %}
           <p>{{ page.citation }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
         {% elsif page.citation %}
           <p>{{ page.citation }} </p>
         {% endif %}
-        -->
     
         </header>
       {% endunless %}
